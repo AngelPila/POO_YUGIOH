@@ -3,7 +3,6 @@ from enum import Enum
 import numpy as np
 from enumeraciones import *
 
-#hola, estoy probando git
 class Deck:
     def __init__(self, cartas):
         self.cartas = cartas
